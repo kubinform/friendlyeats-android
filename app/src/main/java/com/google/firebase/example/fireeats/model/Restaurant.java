@@ -15,6 +15,7 @@
  */
  package com.google.firebase.example.fireeats.model;
 
+import com.google.firebase.firestore.CollectionReference;
 import com.google.firebase.firestore.IgnoreExtraProperties;
 
 /**
